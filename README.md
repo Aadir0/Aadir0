@@ -15,7 +15,7 @@
 
 🏫 I’m currently learning Game Development and Designing.
 
-🤙 How to reach me through [LinkedIn](https://www.linkedin.com/in/aaditya-raj-32b30b37b/) and [Instagram](https://www.instagram.com/cholebhature_hehe/).
+🤙 You can reach me through [LinkedIn](https://www.linkedin.com/in/aaditya-raj-32b30b37b/) and [Instagram](https://www.instagram.com/cholebhature_hehe/).
   
 ## ✌️ Fun fact:
   - I eat a lot 🍕.
