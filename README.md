@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Aadir0/Aadir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aaditya Raj, a game developer based on India.
 
-Here are some ideas to get you started:
+I make games with my free will and always ready to test some exciting features in my games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech fied is Unity learning, C#, and game designing.
+
+Right now I'm currently working on some of my projects.
+
+I’m currently learning Game Development and Designing.
+
+How to reach me through the links in my pofile.
+  
+Fun fact:
+  I eat a lot.
+  I work with flow so sometimes I even forget to eat.
+  Hobbies: Gaming, Reading, Eating.
