@@ -8,7 +8,7 @@
 
 🧑‍💻 My main tech fied is [Unity learning](https://unity.com/), C#, and Game designing.
 
-🏢 Right now I'm currently working on some of my projects. One of them is [Ceaser Cipher](docs/Ceaser_Cipher.md).
+🏢 Right now I'm currently working on some of my projects. One of them is [Ceaser Cipher](Ceaser_Cipher.md).
 
 > [!Note]
 > I'm in first year so not so good will learn and try to be better.
