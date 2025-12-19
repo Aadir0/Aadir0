@@ -1,4 +1,4 @@
-## About Me
+<!--## About Me
 
 I'm an aspiring game developer on an exciting journey to turn my passion into a career! 🎮✨
 
@@ -19,8 +19,7 @@ Game development represents the perfect fusion of creativity, technology, and st
 ---
 
 *"The journey of a thousand miles begins with a single step." - And I'm taking those steps every day!*
-
-<!--
+-->
 ![Image is just to look cool](https://images.alphacoders.com/133/thumb-1920-1337463.png)
 
 # Hi there 👋
@@ -44,4 +43,3 @@ Game development represents the perfect fusion of creativity, technology, and st
   - I eat a lot 🍕.
   - I work with flow so sometimes I even forget to eat 🧑‍💼.
   - Hobbies: Gaming, Reading, Eating.
--->
