@@ -30,10 +30,7 @@ Game development represents the perfect fusion of creativity, technology, and st
 
 🧑‍💻 My main tech fied is [Unity learning](https://unity.com/), C#, and Game designing.
 
-🏢 Right now I'm currently working on some of my projects. One of them is [Ceaser Cipher](https://github.com/Aadir0/Ceaser-Cipher.git).
-
-> [!Note]
-> I'm in first year so not so good will learn and try to be better.
+🏢 Right now I'm currently working on some of my projects.
 
 🏫 I’m currently learning Game Development and Designing.
 
