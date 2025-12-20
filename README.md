@@ -24,15 +24,15 @@ Game development represents the perfect fusion of creativity, technology, and st
 
 # Hi there 👋
 
-## I'm [Aaditya Raj](https://www.linkedin.com/in/aaditya-raj-32b30b37b/), a game developer based on India(🇮🇳).
+## I'm [Aaditya Raj](https://www.linkedin.com/in/aaditya-raj-32b30b37b/), a game developer from India.
 
 > 💻 I make games with my free will and always ready to test some exciting features in my games.
 
-🧑‍💻 My main tech fied is [Unity learning](https://unity.com/), C#, and Game designing.
+🧑‍💻 My work on [Unity learning](https://unity.com/), C#, and Game designing.
 
 🏢 Right now I'm currently working on some of my projects.
 
-🏫 I’m currently learning Game Development and Designing.
+🏫 I’m a Game Developer and Designer.
 
 🤙 You can reach me through [LinkedIn](https://www.linkedin.com/in/aaditya-raj-32b30b37b/) and [Instagram](https://www.instagram.com/cholebhature_hehe/).
   
