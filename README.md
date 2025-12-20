@@ -12,7 +12,7 @@
 
 🏫 I’m a Game Developer and Designer.
 
-🤙 You can reach me through
+🤙 || You can reach me through ||
 <div align="left">
   <a href="https://www.linkedin.com/in/aaditya-raj-32b30b37b/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -31,7 +31,7 @@
   </a>
 </div>
 
-## Tools I have used and Learned 
+## || Tools I have used and Learned:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -51,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
-[![Aadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadir0&show_icons=true&theme=dark&ring_color=fffe7e)](https://github.com/aadir0/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadir0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+## || My Stats:
+
+![Aadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadir0&show_icons=true&theme=dark&ring_color=fffe7e) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadir0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadir0&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
