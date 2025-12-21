@@ -6,9 +6,7 @@
 
 > 💻 I make games with my free will and always ready to test some exciting features in my games.
 
-🧑‍💻 My work on [Unity](https://unity.com/).
-
-🏢 Right now I'm currently working on some of my projects are [Dragons-Quest](https://github.com/Aadir0/Dragons_Quest).
+🏢 Right now I'm currently working on some of my projects like [Dragons-Quest](https://github.com/Aadir0/Dragons_Quest).
 
 🏫 I’m a Game Developer and Designer.
 
