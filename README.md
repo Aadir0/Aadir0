@@ -20,4 +20,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aadir0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://raw.githubusercontent.com/aadir0/aadiro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
