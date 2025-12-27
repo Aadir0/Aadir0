@@ -2,8 +2,7 @@
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&customColorList=14,16,19,89dceb" />
 </div>
 
-
-
+<br><br>
 <div align="center" style="background-color: #1a1b26; padding: 10px; border-radius: 8px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=89DCEB&background=1A1B2600&center=true&vCenter=true&width=435&lines=I'm+Aaditya+Raj;Game+Developer;Game+Designer" alt="Typing SVG" />
 </div>
