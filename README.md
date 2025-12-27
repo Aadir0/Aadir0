@@ -19,13 +19,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=aadir0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aadir0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadir0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <br clear="both">
 <img src="https://raw.githubusercontent.com/aadir0/aadir0/output/snake.svg" alt="Snake animation" />
-
 <div>
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&customColorList=14,16,19,89dceb" />
 </div>
-
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aadir0&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
