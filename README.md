@@ -4,7 +4,7 @@
 
 <br><br>
 <div align="center" style="background-color: #1a1b26; padding: 10px; border-radius: 8px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=89DCEB&background=1A1B2600&center=true&vCenter=true&width=435&lines=I'm+Aaditya+Raj;Game+Developer;Game+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=39B346&background=1A1B2600&center=true&vCenter=true&width=435&lines=I'm+Aaditya+Raj;Game+Developer;Game+Designer" alt="Typing SVG" />
 </div>
 
 
@@ -29,8 +29,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aadir0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadir0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img src="https://raw.githubusercontent.com/aadir0/aadir0/output/snake.svg" alt="Snake animation" />
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github-trophies.vercel.app/?username=Aadir0" target="_blank">
+    <img src="https://github-trophies.vercel.app/?username=Aadir0&theme=radical&margin-w=4&margin-h=4">
+  </a>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aadir0&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Aadir0" style="padding-right:20px;" />
+</p>
+
 <div>
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&customColorList=14,16,19,89dceb" />
 </div>
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aadir0&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
