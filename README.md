@@ -9,13 +9,11 @@
 
 
 ## About me:
-👋 I'm **Aaditya Raj** a game developer from India.
+👋 Hello, Myself Aaditya Raj and I am a Game Developer and Designer.
 
 💻 I make games with my free will and always ready to test some exciting features in my games.
 
 🏢 Right now I'm currently working on some of my projects like [Dragons-Quest](https://github.com/Aadir0/Dragons_Quest) and [Time-Traveler](https://github.com/Aadir0/Time-Traveler).
-
-🏫 I’m a Game Developer and Designer.
 
 ![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)
 
