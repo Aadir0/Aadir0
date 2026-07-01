@@ -1,4 +1,5 @@
 <div align="center">
+<img src=".github/Images/Cholebhature.png" alt="banner" width="100%">
 
 # 👋 Hey, I'm Aaditya Raj
 
@@ -57,9 +58,9 @@ A pixel-art platformer where players switch between two realities to solve puzzl
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadir0&show_icons=true&theme=tokyonight"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Aadir0&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadir0&layout=compact&theme=tokyonight"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Aadir0&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -78,8 +79,8 @@ A pixel-art platformer where players switch between two realities to solve puzzl
 ## Contribution Graph
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Aadir0/Aadir0/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadir0&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
 </p>
 
