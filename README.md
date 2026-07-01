@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Aadi!
+# 👋 Hey, I'm Aaditya Raj
 
 ### 🎮 Computer Science Student • Unity Game Developer • Gameplay Programmer
 
@@ -10,22 +10,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 Computer Science Engineering Student
+- Computer Science Engineering Student
 
-🎮 Passionate about creating unique gameplay mechanics
+- Passionate about creating unique gameplay mechanics
 
-🌌 Currently developing a 2D Platformer with World Switching mechanics
+- Currently developing a 2D Platformer with World Switching mechanics
 
-🧠 Interested in
-
-- Gameplay Programming
-- Game Physics
-- AI
-- Pixel Art
-- Game Feel
-- Procedural Systems
+- Interested in
+   - Gameplay Programming
+   - Game Physics
+   - Pixel Art
+   - Game Design
+   - Game UI Design
 
 ---
 
@@ -33,15 +31,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,git,github,vscode,visualstudio,blender"/>
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,go,python,git,github,vscode,blender"/>
 
 </p>
 
 ---
 
-## 🎮 Current Project
+## Current Project
 
-### 🌌 EchoShift *(Working Title)*
+### Break The Curse *(Working Title)*
 
 A pixel-art platformer where players switch between two realities to solve puzzles and escape dangerous enemies.
 
@@ -77,7 +75,7 @@ A pixel-art platformer where players switch between two realities to solve puzzl
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -87,26 +85,18 @@ A pixel-art platformer where players switch between two realities to solve puzzl
 
 ---
 
-## 🎯 Currently Learning
+## Currently Learning
 
 - Advanced Unity
 - Shader Graph
 - Game Optimization
 - Design Patterns
 - Procedural Generation
+- Building 3D games
 
 ---
 
-## 🌟 Goals for 2026
-
-- ✅ Publish my first complete game
-- 🚀 Participate in Game Jams
-- ⭐ Grow my open-source contributions
-- 🎮 Build a professional game development portfolio
-
----
-
-## ☕ Fun Fact
+## Fun Fact
 
 ```cpp
 while(alive)
@@ -120,21 +110,26 @@ while(alive)
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Aadir0">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
+<a href="https://www.instagram.com/i_aaditya_raj/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aadityaraj-singh/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 *"Every great game starts with a single idea."*
 
