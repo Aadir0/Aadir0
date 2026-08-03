@@ -40,21 +40,33 @@
 
 ## Current Project
 
-### Break The Curse *(Working Title)*
+### Nightmare - The Fairy Tale (Previously Break The Curse) *(Completed)*
 
 A pixel-art platformer where players switch between two realities to solve puzzles and escape dangerous enemies.
 
 ### Features
 
-- 🌍 World Switching
-- 👾 Enemy AI
-- 💎 Puzzle Mechanics
-- 🎵 Immersive Atmosphere
-- ✨ Pixel Art Visuals
+- World Switching
+- Enemy AI
+- Puzzle Mechanics
+- Immersive Atmosphere
+- Pixel Art Visuals
+
+### Darkness is the my BestFriend *(Working)*
+
+A pixel-art platformer where player uses light to escape and fight demons who loves darkness.
+
+### Features
+
+- Shadow casting of all objects
+- Create Shadow Platform by varying the size/position of shadow of any other object
+- Pixel Art visuals (Self Made)
+- Enemy AI (Chase player, Search for Player, Avoids Bright Light)
+- Immersive Dark Industrial Environment
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -66,7 +78,7 @@ A pixel-art platformer where players switch between two realities to solve puzzl
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
