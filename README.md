@@ -58,11 +58,11 @@ A pixel-art top-down racing game where you have no brakes and you have to contro
 
 ### Features
 
-- Shadow casting of all objects
-- Create Shadow Platform by varying the size/position of shadow of any other object
+- Shader Graph for water
+- Dirifting and car jumping mechanics
 - Pixel Art visuals (Self Made)
-- Enemy AI (Chase player, Search for Player, Avoids Bright Light)
-- Immersive Dark Industrial Environment
+- Immersive Night light nature enviroment
+- A little immersive control
 
 ---
 
