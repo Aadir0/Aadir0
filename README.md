@@ -52,9 +52,9 @@ A pixel-art platformer where players switch between two realities to solve puzzl
 - Immersive Atmosphere
 - Pixel Art Visuals
 
-### Darkness is the my BestFriend *(Working)*
+### Drift It *(Working)*
 
-A pixel-art platformer where player uses light to escape and fight demons who loves darkness.
+A pixel-art top-down racing game where you have no brakes and you have to control the car and reach end without crashing.
 
 ### Features
 
