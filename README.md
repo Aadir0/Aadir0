@@ -1,151 +1,54 @@
 <div align="center">
-<img src=".github/Images/Cholebhature.png" alt="banner" width="100%">
 
-# 👋 Hey, I'm Aaditya Raj
+<img src=".github/Images/Cholebhature.png" alt="Aaditya Raj" width="100%">
 
-### 🎮 Computer Science Student • Unity Game Developer • Gameplay Programmer
+# AADITYA RAJ
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Building+Games+One+Mechanic+at+a+Time...;Unity+%7C+C%23+%7C+Pixel+Art;Creating+Worlds+Players+Will+Remember."/>
+**Game Developer · CSE Student · Gameplay Programmer**
+
+*Building games, one mechanic at a time.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Aadir0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityaraj-singh/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://cholebhature-hehe.itch.io)
 
 </div>
 
 ---
 
-## About Me
+### 🎮 What I Do
 
-- Computer Science Engineering Student
+I build **games and gameplay systems** with a focus on mechanics, feel, and experimentation.
 
-- Passionate about creating unique gameplay mechanics
+- 🕹️ Unity & C#
+- 🎨 Pixel Art & Game UI
+- ⚙️ Gameplay Programming & Physics
+- 🌱 Procedural Generation & Shaders
+- 🧩 Game Design & Systems
 
-- Currently developing a 2D Platformer with World Switching mechanics
-
-- Interested in
-   - Gameplay Programming
-   - Game Physics
-   - Pixel Art
-   - Game Design
-   - Game UI Design
-
----
-
-## 🛠️ Tech Stack
+### 🛠️ Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,go,python,git,github,vscode,blender"/>
-
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,go,python,git,github,blender,vscode" />
 </p>
 
----
+### 🚧 Building
 
-## Current Project
+**Drift It** — A pixel-art top-down racer where **there are no brakes**.  
+Drift. Jump. Don’t crash.
 
-### Nightmare - The Fairy Tale (Previously Break The Curse) *(Completed)*
+**Nightmare — The Fairy Tale** — A completed pixel-art platformer built around **switching between two realities**.
 
-A pixel-art platformer where players switch between two realities to solve puzzles and escape dangerous enemies.
+### 📚 Currently Learning
 
-### Features
-
-- World Switching
-- Enemy AI
-- Puzzle Mechanics
-- Immersive Atmosphere
-- Pixel Art Visuals
-
-### Drift It *(Working)*
-
-A pixel-art top-down racing game where you have no brakes and you have to control the car and reach end without crashing.
-
-### Features
-
-- Shader Graph for water
-- Dirifting and car jumping mechanics
-- Pixel Art visuals (Self Made)
-- Immersive Night light nature enviroment
-- A little immersive control
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Aadir0&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Aadir0&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aadir0&theme=tokyonight"/>
-
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadir0&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
-</p>
-
----
-
-## Currently Learning
-
-- Advanced Unity
-- Shader Graph
-- Game Optimization
-- Design Patterns
-- Procedural Generation
-- Building 3D games
-
----
-
-## Fun Fact
-
-```cpp
-while(alive)
-{
-    Learn();
-    BuildGames();
-    Improve();
-    Repeat();
-}
-```
-
----
-
-## Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Aadir0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.instagram.com/i_aaditya_raj/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/aadityaraj-singh/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
+`Advanced Unity` · `Shader Graph` · `Optimization` · `Design Patterns` · `Procedural Generation` · `3D Game Development`
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+> **Learn → Build → Break → Improve → Repeat.**
 
-*"Every great game starts with a single idea."*
-
-![](https://komarev.com/ghpvc/?username=Aadir0&color=blueviolet&style=flat)
+<img src="https://komarev.com/ghpvc/?username=Aadir0&style=flat-square&color=blueviolet" />
 
 </div>
