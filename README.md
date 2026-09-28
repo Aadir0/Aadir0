@@ -29,7 +29,7 @@ I enjoy building mechanics that make players stop and think:
 ## 🛠️ Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,go,python,git,github,blender,vscode" />
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,c,git,github,blender,vscode,java" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ A platformer built around **switching between two realities**, changing the worl
 ## ⚡ Currently
 
 **Building:** Drift It  
-**Learning:** Advanced Unity · Shaders · Optimization · Procedural Generation  
+**Learning:** Advanced Unity · Shaders · Optimization
 **Exploring:** 3D Game Development · Game Physics · Design Patterns
 
 ---
