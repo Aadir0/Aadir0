@@ -52,15 +52,7 @@ Drifting, jumping, water shaders and a night-time environment — built around c
 
 A platformer built around **switching between two realities**, changing the world itself to overcome obstacles and enemies.
 
-**Features:** World Switching · Enemy AI · Puzzle Mechanics · Pixel Art
-
----
-
-## ⚡ Currently
-
-**Building:** Drift It  
-**Learning:** Advanced Unity · Shaders · Optimization
-**Exploring:** 3D Game Development · Game Physics · Design Patterns
+**Features:** World Switching · Enemy AI · Pixel Art
 
 ---
 
