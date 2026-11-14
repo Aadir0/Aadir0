@@ -58,12 +58,6 @@ A platformer built around **switching between two realities**, changing the worl
 
 ## 📊 GitHub
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadir0&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
 <div align="center">
 
 ### `while (alive) { build(); learn(); repeat(); }`
